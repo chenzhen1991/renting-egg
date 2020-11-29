@@ -3,7 +3,7 @@
 const gamesArr = [
   {
     id: 1,
-    title: '2020年比赛',
+    title: '2020年222比赛',
     children: [
       {
         id: 1,
